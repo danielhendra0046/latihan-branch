@@ -1,3 +1,3 @@
 # latihan-branch
 
-new
+baru
